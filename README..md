@@ -27,4 +27,4 @@ python main.py
 ## License
 
 MIT
-#it's the end
+#it is the end
